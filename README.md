@@ -44,3 +44,6 @@ metrics = model.val()
 # Perform object detection on an image
 results = model("path/to/image.jpg")
 results[0].show()
+
+
+<img width="981" height="342" alt="image" src="https://github.com/user-attachments/assets/2b075577-ccad-4ad0-9406-30a2e632a347" />
