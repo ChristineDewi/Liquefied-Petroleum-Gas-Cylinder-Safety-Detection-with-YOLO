@@ -47,3 +47,12 @@ results[0].show()
 
 
 <img width="981" height="342" alt="image" src="https://github.com/user-attachments/assets/2b075577-ccad-4ad0-9406-30a2e632a347" />
+
+
+
+@article{tian2025yolov12,
+  title={YOLOv12: Attention-Centric Real-Time Object Detectors},
+  author={Tian, Yunjie and Ye, Qixiang and Doermann, David},
+  journal={arXiv preprint arXiv:2502.12524},
+  year={2025}
+}
