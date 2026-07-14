@@ -45,6 +45,11 @@ results = model.train(
   device="0,1,2,3",
 )
 
+# Methodology
+
+<img width="1774" height="887" alt="ChatGPT Image Jun 27, 2026, 10_13_59 AM" src="https://github.com/user-attachments/assets/a17f1e82-7d64-4cc1-acf3-8e557e3aaf3c" />
+
+
 # Evaluate model performance on the validation set
 metrics = model.val()
 
@@ -56,6 +61,8 @@ results[0].show()
 <img width="981" height="342" alt="image" src="https://github.com/user-attachments/assets/2b075577-ccad-4ad0-9406-30a2e632a347" />
 
 
+
+# Citation
 
 @article{tian2025yolov12,
   title={YOLOv12: Attention-Centric Real-Time Object Detectors},
